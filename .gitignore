@@ -1,0 +1,7 @@
+.env
+modules/*
+logs/
+uploads/*
+db/*
+logs/*
+config/*
